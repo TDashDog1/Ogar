@@ -18,6 +18,7 @@ Manual:
 ~$ npm install ws
 ~$ node Ogar
 ```
+(note: Ubuntu and Debian usually have nodejs packages that require you to execute nodejs Ogar rather than node Ogar.
 Using the install script:
 ```sh
 ~$ sudo ogar-linux-script.sh install /your/preferred/directory
